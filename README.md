@@ -40,8 +40,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date | Topic | Lab Title | Difficulty | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 2026-06-13 | SQLi | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Apprentice | N/A |
-| 2 | 2026-06-13 | Auth | Password-based login vulnerabilities | Apprentice | [Read Writeup](./writeups/lab-2.md) |
+| 1 | 2026-00-00 | | | | N/A |
+| 2 | 2026-00-00 | | | | N/A|
 | 3 | 2026-00-00 | | | | N/A |
 | 4 | 2026-00-00 | | | | N/A |
 | 5 | 2026-00-00 | | | | N/A |
