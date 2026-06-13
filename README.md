@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
 ![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-0-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--06--13-yellow)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--00--00-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-0%25-magenta)
 
