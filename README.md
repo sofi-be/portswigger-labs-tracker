@@ -1,9 +1,9 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-0-blue)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-2-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--06--16-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
-![Completed](https://img.shields.io/badge/Completed-0%25-magenta)
+![Completed](https://img.shields.io/badge/Completed-1%25-magenta)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
