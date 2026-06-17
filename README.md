@@ -44,8 +44,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 2 | 2026-06-16 | SQL Injection| SQL injection vulnerability allowing login bypass| APPRENTICE| N/A|
 | 3 | 2026-06-17 | SQL Injection|SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER| N/A |
 | 4 | 2026-06-17| SQL Injection| SQL injection UNION attack, finding a column containing text| PRACTITIONER| N/A |
-| 5 | 2026-06-17 | SQL Injection|SQL injection UNION attack, retrieving data from other tables
- | PRACTITIONER| N/A |
+| 5 | 2026-06-17 | SQL Injection|SQL injection UNION attack, retrieving data from other tables| PRACTITIONER| N/A |
 | 6 | 2026-06-17 | SQL Injection| SQL injection UNION attack, retrieving multiple values in a single column| PRACTITIONER| N/A |
 | 7 | 2026-00-00 | | | | N/A |
 | 8 | 2026-00-00 | | | | N/A |
