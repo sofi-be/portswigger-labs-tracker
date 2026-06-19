@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-10-blue)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-13-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--06--20-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-5.4%25-magenta)
@@ -10,13 +10,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 2 of 61
-* **Practitioner:** 8 of 174
+* **Practitioner:** 11 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
 
 * **Authentication vulnerabilities:** 0/14 lab
-* **SQL injection:** 10/18 lab
+* **SQL injection:** 13/18 lab
 * **Access control:** 0/13 lab
 
 ## Notes
@@ -50,6 +50,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 8 | 2026-06-19 | SQL Injection| Blind SQL injection with conditional errors| PRACTITIONER| N/A |
 |9|2026-06-20|SQL Injection|Blind SQL injection with time delays|PRACTITIONER|N/A|
 |10|2026-06-20|SQL Injection|Visible error-based SQL injection|PRACTITIONER|N/A|
-|11|2026-06-00||||N/A|
-|12|2026-06-00||||N/A|
-|13|2026-06-00||||N/A|
+|11|2026-06-20|SQL Injection|SQL injection attack, querying the database type and version on Oracle|PRACTITIONER|N/A|
+|12|2026-06-20|SQL Injection|SQL injection attack, querying the database type and version on MySQL and Microsoft|PRACTITIONER|N/A|
+|13|2026-06-20|SQL Injection|SQL injection attack, listing the database contents on non-Oracle databases|PRACTITIONER|N/A|
+|14|2026-06-00||||N/A|
+|15|2026-06-00||||N/A|
+|16|2026-06-00||||N/A|
