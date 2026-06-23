@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-13-blue)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-15-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--06--20-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-5.4%25-magenta)
@@ -9,13 +9,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 2 of 61
-* **Practitioner:** 11 of 174
+* **Apprentice:** 3 of 61
+* **Practitioner:** 12 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
 
-* **Authentication vulnerabilities:** 0/14 lab
+* **Authentication vulnerabilities:** 2/14 lab
 * **SQL injection:** 13/18 lab
 * **Access control:** 0/13 lab
 
@@ -53,6 +53,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |11|2026-06-20|SQL Injection|SQL injection attack, querying the database type and version on Oracle|PRACTITIONER|N/A|
 |12|2026-06-20|SQL Injection|SQL injection attack, querying the database type and version on MySQL and Microsoft|PRACTITIONER|N/A|
 |13|2026-06-20|SQL Injection|SQL injection attack, listing the database contents on non-Oracle databases|PRACTITIONER|N/A|
-|14|2026-06-00||||N/A|
-|15|2026-06-00||||N/A|
-|16|2026-06-00||||N/A|
+|14|2026-06-24|Authentication vulnerabilities|Username enumeration via subtly different responses|PRACTITIONER|N/A|
+|15|2026-06-24|Authentication vulnerabilities|Username enumeration via different responses|Apprentice|N/A|
+|16|2026-06-00|Authentication vulnerabilities|||N/A|
+|17|2026-06-00||||N/A|
+|18|2026-06-00||||N/A|
