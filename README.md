@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-23-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--06--26-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-26-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--01-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-7.4%25-magenta)
 
@@ -9,8 +9,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 5 of 61
-* **Practitioner:** 18 of 174
+* **Apprentice:** 6 of 61
+* **Practitioner:** 20 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
@@ -18,6 +18,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Authentication vulnerabilities:** 10/14 lab
 * **SQL injection:** 13/18 lab
 * **Access control:** 0/13 lab
+* **Path traversal:** 3/6 lab
 
 ## Notes
 
@@ -57,10 +58,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |15|2026-06-24|Authentication vulnerabilities|Username enumeration via different responses|Apprentice|N/A|
 |16|2026-06-25|Authentication vulnerabilities|Broken brute-force protection, IP block|PRACTITIONER|N/A|
 |17|2026-06-25|Authentication vulnerabilities|Username enumeration via account lock|PRACTITIONER|N/A|
-|18|2026-00-26|Authentication vulnerabilities|2FA simple bypass|Apprentice|N/A|
-|19|2026-00-26|Authentication vulnerabilities|Password reset broken logic|Apprentice|N/A|
-|20|2026-00-26|Authentication vulnerabilities|Brute-forcing a stay-logged-in cookie|PRACTITIONER|N/A|
-|21|2026-00-26|Authentication vulnerabilities|Offline password cracking|PRACTITIONER|N/A|
-|22|2026-00-26|Authentication vulnerabilities|Password reset poisoning via middleware|PRACTITIONER|N/A|
-|23|2026-00-26|Authentication vulnerabilities|Password brute-force via password change|PRACTITIONER|N/A|
-|24|2026-00-00||||N/A|
+|18|2026-06-26|Authentication vulnerabilities|2FA simple bypass|Apprentice|N/A|
+|19|2026-06-26|Authentication vulnerabilities|Password reset broken logic|Apprentice|N/A|
+|20|2026-06-26|Authentication vulnerabilities|Brute-forcing a stay-logged-in cookie|PRACTITIONER|N/A|
+|21|2026-06-26|Authentication vulnerabilities|Offline password cracking|PRACTITIONER|N/A|
+|22|2026-06-26|Authentication vulnerabilities|Password reset poisoning via middleware|PRACTITIONER|N/A|
+|23|2026-06-26|Authentication vulnerabilities|Password brute-force via password change|PRACTITIONER|N/A|
+|24|2026-07-01|Path traversal|File path traversal, simple case|Apprentice|N/A|
+|25|2026-07-01|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|PRACTITIONER|N/A|
+|26|2026-07-01|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|PRACTITIONER|N/A|
+|27|2026-07-00||||N/A|
+|28|2026-07-00||||N/A|
