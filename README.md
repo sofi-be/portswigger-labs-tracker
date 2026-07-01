@@ -1,16 +1,16 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-26-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--01-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-29-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--02-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
-![Completed](https://img.shields.io/badge/Completed-7.4%25-magenta)
+![Completed](https://img.shields.io/badge/Completed-9.4%25-magenta)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 
 * **Apprentice:** 6 of 61
-* **Practitioner:** 20 of 174
+* **Practitioner:** 23 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
@@ -18,7 +18,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Authentication vulnerabilities:** 10/14 lab
 * **SQL injection:** 13/18 lab
 * **Access control:** 0/13 lab
-* **Path traversal:** 3/6 lab
+* **Path traversal:** 6/6 lab
 
 ## Notes
 
@@ -67,5 +67,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |24|2026-07-01|Path traversal|File path traversal, simple case|Apprentice|N/A|
 |25|2026-07-01|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|PRACTITIONER|N/A|
 |26|2026-07-01|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|PRACTITIONER|N/A|
-|27|2026-07-00||||N/A|
-|28|2026-07-00||||N/A|
+|27|2026-07-02|Path traversal|File path traversal, traversal sequences stripped with superfluous URL-decode|PRACTITIONER|N/A|
+|28|2026-07-02|Path traversal|File path traversal, validation of start of path|PRACTITIONERN/A|
+|29|2026-07-02|Path traversal|File path traversal, validation of file extension with null byte bypass|PRACTITIONER|N/A|
+|30|2026-07-02||||N/A|
+|31|2026-07-02||||N/A|
+|32|2026-07-02||||N/A|
