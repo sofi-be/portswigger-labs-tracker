@@ -70,6 +70,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |27|2026-07-02|Path traversal|File path traversal, traversal sequences stripped with superfluous URL-decode|PRACTITIONER|N/A|
 |28|2026-07-02|Path traversal|File path traversal, validation of start of path|PRACTITIONERN/A|
 |29|2026-07-02|Path traversal|File path traversal, validation of file extension with null byte bypass|PRACTITIONER|N/A|
-|30|2026-07-02||||N/A|
-|31|2026-07-02||||N/A|
-|32|2026-07-02||||N/A|
+|30|2026-07-03|OS command injection|OS command injection, simple case|Apprentice|N/A|
+|31|2026-07-03|OS command injection|Blind OS command injection with time delays|PRACTITIONER|N/A|
+|32|2026-07-04||||N/A|
+|33|2026-07-04||||N/A|
