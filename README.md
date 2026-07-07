@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-33-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--02-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-36-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--08-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-9.4%25-magenta)
 
@@ -9,7 +9,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 7 of 61
+* **Apprentice:** 10 of 61
 * **Practitioner:** 26 of 174
 * **Expert:** 0 of 39
 
@@ -17,7 +17,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 * **Authentication vulnerabilities:** 10/14 lab
 * **SQL injection:** 13/18 lab
-* **Access control:** 0/13 lab
+* **Access control:** 3/13 lab
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 
@@ -75,6 +75,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |31|2026-07-03|OS command injection|Blind OS command injection with time delays|PRACTITIONER|N/A|
 |32|2026-07-04|OS command injection|Blind OS command injection with output redirection|PRACTITIONER|N/A|
 |33|2026-07-04|OS command injection|Blind OS command injection with out-of-band interaction|PRACTITIONER|N/A|
-|34|2026-07-04||||N/A|
-|35|2026-07-04||||N/A|
-|36|2026-07-04||||N/A|
+|34|2026-07-04|Access control|Unprotected admin functionality|Apprentice|N/A|
+|35|2026-07-04|Access control|Unprotected admin functionality with unpredictable URL|Apprentice|N/A|
+|36|2026-07-04|Access control|User role controlled by request parameter|Apprentice|N/A|
+|37|2026-07-04|Access control|||N/A|
+|38|2026-07-04|Access control|||N/A|
+|39|2026-07-04|Access control|||N/A|
+|40|2026-07-04|Access control|||N/A|
+|41|2026-07-04|Access control|||N/A|
