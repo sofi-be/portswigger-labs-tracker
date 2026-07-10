@@ -1,23 +1,23 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-36-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--08-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-43-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--10-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
-![Completed](https://img.shields.io/badge/Completed-9.4%25-magenta)
+![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 
-* **Apprentice:** 10 of 61
-* **Practitioner:** 26 of 174
+* **Apprentice:** 16 of 61
+* **Practitioner:** 27 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
 
 * **Authentication vulnerabilities:** 10/14 lab
 * **SQL injection:** 13/18 lab
-* **Access control:** 3/13 lab
+* **Access control:** 10/13 lab
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 
@@ -78,8 +78,18 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |34|2026-07-04|Access control|Unprotected admin functionality|Apprentice|N/A|
 |35|2026-07-04|Access control|Unprotected admin functionality with unpredictable URL|Apprentice|N/A|
 |36|2026-07-04|Access control|User role controlled by request parameter|Apprentice|N/A|
-|37|2026-07-04|Access control|||N/A|
-|38|2026-07-04|Access control|||N/A|
-|39|2026-07-04|Access control|||N/A|
-|40|2026-07-04|Access control|||N/A|
-|41|2026-07-04|Access control|||N/A|
+|37|2026-07-10|Access control|URL-based access control can be circumvented|PRACTITIONER|N/A|
+|38|2026-07-10|Access control|User role can be modified in user profile|Apprentice|N/A|
+|39|2026-07-10|Access control|User ID controlled by request parameter |Apprentice|N/A|
+|40|2026-07-10|Access control|User ID controlled by request parameter, with unpredictable user IDs|Apprentice|N/A|
+|41|2026-07-10|Access control|User ID controlled by request parameter with data leakage in redirect |Apprentice|N/A|
+|42|2026-07-10|Access control|User ID controlled by request parameter with password disclosure|Apprentice|N/A|
+|43|2026-07-10|Access control|Insecure direct object references|Apprentice|N/A|
+|44|2026-07-00|Access control|||N/A|
+|45|2026-07-00|Access control|||N/A|
+|46|2026-07-00||||N/A|
+|47|2026-07-00||||N/A|
+|48|2026-07-00||||N/A|
+|49|2026-07-00||||N/A|
+|50|2026-07-00||||N/A|
+|51|2026-07-00||||N/A|
