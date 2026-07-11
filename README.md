@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-43-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--10-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-46-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--12-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
 
@@ -10,14 +10,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 16 of 61
-* **Practitioner:** 27 of 174
+* **Practitioner:** 30 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
 
 * **Authentication vulnerabilities:** 10/14 lab
 * **SQL injection:** 13/18 lab
-* **Access control:** 10/13 lab
+* **Access control:** 13/13 lab
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 
