@@ -85,9 +85,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |41|2026-07-10|Access control|User ID controlled by request parameter with data leakage in redirect |Apprentice|N/A|
 |42|2026-07-10|Access control|User ID controlled by request parameter with password disclosure|Apprentice|N/A|
 |43|2026-07-10|Access control|Insecure direct object references|Apprentice|N/A|
-|44|2026-07-00|Access control|||N/A|
-|45|2026-07-00|Access control|||N/A|
-|46|2026-07-00||||N/A|
+|44|2026-07-00|Access control|Method-based access control can be circumvented|PRACTITIONER|N/A|
+|45|2026-07-00|Access control|Multi-step process with no access control on one step|PRACTITIONER|N/A|
+|46|2026-07-00|Access control|Referer-based access control |PRACTITIONER|N/A|
 |47|2026-07-00||||N/A|
 |48|2026-07-00||||N/A|
 |49|2026-07-00||||N/A|
