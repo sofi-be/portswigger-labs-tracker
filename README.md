@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-46-blue)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-49-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--12-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
@@ -9,8 +9,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 16 of 61
-* **Practitioner:** 30 of 174
+* **Apprentice:** 18 of 61
+* **Practitioner:** 31 of 174
 * **Expert:** 0 of 39
 
 ## Categories Covered
@@ -20,6 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Access control:** 13/13 lab
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
+* **File upload vulnerabilities:** 3/7 lab
 
 ## Notes
 
@@ -85,11 +86,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |41|2026-07-10|Access control|User ID controlled by request parameter with data leakage in redirect |Apprentice|N/A|
 |42|2026-07-10|Access control|User ID controlled by request parameter with password disclosure|Apprentice|N/A|
 |43|2026-07-10|Access control|Insecure direct object references|Apprentice|N/A|
-|44|2026-07-00|Access control|Method-based access control can be circumvented|PRACTITIONER|N/A|
-|45|2026-07-00|Access control|Multi-step process with no access control on one step|PRACTITIONER|N/A|
-|46|2026-07-00|Access control|Referer-based access control |PRACTITIONER|N/A|
-|47|2026-07-00||||N/A|
-|48|2026-07-00||||N/A|
-|49|2026-07-00||||N/A|
+|44|2026-07-11|Access control|Method-based access control can be circumvented|PRACTITIONER|N/A|
+|45|2026-07-11|Access control|Multi-step process with no access control on one step|PRACTITIONER|N/A|
+|46|2026-07-11|Access control|Referer-based access control |PRACTITIONER|N/A|
+|47|2026-07-15|File upload vulnerabilities|Remote code execution via web shell upload|Apprentice|N/A|
+|48|2026-07-15|File upload vulnerabilities|Web shell upload via Content-Type restriction bypass|Apprentice|N/A|
+|49|2026-07-15|File upload vulnerabilities|Web shell upload via path traversal|PRACTITIONER|N/A|
 |50|2026-07-00||||N/A|
 |51|2026-07-00||||N/A|
+|52|2026-07-00||||N/A|
+|53|2026-07-00||||N/A|
+|54|2026-07-00||||N/A|
+|55|2026-07-00||||N/A|
+|56|2026-07-00||||N/A|
