@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-52-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--17-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-56-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--19-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
 
@@ -9,18 +9,19 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 18 of 61
+* **Apprentice:** 21 of 61
 * **Practitioner:** 33 of 174
-* **Expert:** 1 of 39
+* **Expert:** 2 of 39
 
 ## Categories Covered
 
-* **Authentication vulnerabilities:** 10/14 lab
+* **Authentication vulnerabilities:** 11/14 lab
 * **SQL injection:** 13/18 lab
 * **Access control:** 13/13 lab
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 * **File upload vulnerabilities:** 6/7 lab
+* **Cross-site scripting:** 3/30 lab
 
 ## Notes
 
@@ -93,10 +94,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |48|2026-07-15|File upload vulnerabilities|Web shell upload via Content-Type restriction bypass|Apprentice|N/A|
 |49|2026-07-15|File upload vulnerabilities|Web shell upload via path traversal|PRACTITIONER|N/A|
 |50|2026-07-17|File upload vulnerabilities|Web shell upload via obfuscated file extension|PRACTITIONER|N/A|
-|50|2026-07-17|File upload vulnerabilities|Remote code execution via polyglot web shell upload|PRACTITIONER|N/A|
-|51|2026-07-17|File upload vulnerabilities|Web shell upload via race condition|EXPERT|N/A|
-|52|2026-07-07||||N/A|
-|53|2026-07-00||||N/A|
-|54|2026-07-00||||N/A|
-|55|2026-07-00||||N/A|
-|56|2026-07-00||||N/A|
+|51|2026-07-17|File upload vulnerabilities|Remote code execution via polyglot web shell upload|PRACTITIONER|N/A|
+|52|2026-07-17|File upload vulnerabilities|Web shell upload via race condition|EXPERT|N/A|
+|53|2026-07-19|Cross-site scripting|Reflected XSS into HTML context with nothing encoded|Apprentice|N/A|
+|54|2026-07-19|Cross-site scripting|Stored XSS into HTML context with nothing encoded|Apprentice|N/A|
+|55|2026-07-19|Cross-site scripting|DOM XSS in document.write sink using source location.search|Apprentice|N/A|
+|56|2026-07-19|Authentication vulnerabilities|Broken brute-force protection, multiple credentials per request|Expert|N/A|
+|57|2026-07-00||||N/A|
+|58|2026-07-00||||N/A|
+|59|2026-07-00||||N/A|
+|60|2026-07-00||||N/A|
+|61|2026-07-00||||N/A|
