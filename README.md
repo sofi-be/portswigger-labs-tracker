@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-56-blue)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-60-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--19-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
@@ -114,3 +114,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |66|2026-07-00||||N/A|
 |67|2026-07-00||||N/A|
 |68|2026-07-00||||N/A|
+|69|2026-07-00||||N/A|
+|70|2026-07-00||||N/A|
+|71|2026-07-00||||N/A|
+|72|2026-07-00||||N/A|
