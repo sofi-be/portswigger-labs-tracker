@@ -9,8 +9,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 21 of 61
-* **Practitioner:** 33 of 174
+* **Apprentice:** 24 of 61
+* **Practitioner:** 34 of 174
 * **Expert:** 2 of 39
 
 ## Categories Covered
@@ -21,7 +21,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 * **File upload vulnerabilities:** 6/7 lab
-* **Cross-site scripting:** 3/30 lab
+* **Cross-site scripting:** 5/30 lab
+* **Race conditions:** 2/6 lab
 
 ## Notes
 
@@ -100,8 +101,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |54|2026-07-19|Cross-site scripting|Stored XSS into HTML context with nothing encoded|Apprentice|N/A|
 |55|2026-07-19|Cross-site scripting|DOM XSS in document.write sink using source location.search|Apprentice|N/A|
 |56|2026-07-19|Authentication vulnerabilities|Broken brute-force protection, multiple credentials per request|Expert|N/A|
-|57|2026-07-00||||N/A|
-|58|2026-07-00||||N/A|
-|59|2026-07-00||||N/A|
-|60|2026-07-00||||N/A|
+|57|2026-07-00|Cross-site scripting|DOM XSS in innerHTML sink using source location.search
+|Apprentice|N/A|
+|58|2026-07-00|Cross-site scripting|DOM XSS in jQuery anchor href attribute sink using location.search source|Apprentice|N/A|
+|59|2026-07-00|Race conditions|Limit overrun race conditions|Apprentice|N/A|
+|60|2026-07-00|Race conditions|Multi-endpoint race conditions|PRACTITIONER|N/A|
 |61|2026-07-00||||N/A|
+|62|2026-07-00||||N/A|
+|63|2026-07-00||||N/A|
+|64|2026-07-00||||N/A|
+|65|2026-07-00||||N/A|
+|66|2026-07-00||||N/A|
+|67|2026-07-00||||N/A|
+|68|2026-07-00||||N/A|
