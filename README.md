@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-60-blue)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-64-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--19-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
@@ -9,7 +9,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 24 of 61
+* **Apprentice:** 28 of 61
 * **Practitioner:** 34 of 174
 * **Expert:** 2 of 39
 
@@ -21,7 +21,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 * **File upload vulnerabilities:** 6/7 lab
-* **Cross-site scripting:** 5/30 lab
+* **Cross-site scripting:** 9/30 lab
 * **Race conditions:** 2/6 lab
 
 ## Notes
@@ -106,15 +106,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |58|2026-07-00|Cross-site scripting|DOM XSS in jQuery anchor href attribute sink using location.search source|Apprentice|N/A|
 |59|2026-07-00|Race conditions|Limit overrun race conditions|Apprentice|N/A|
 |60|2026-07-00|Race conditions|Multi-endpoint race conditions|PRACTITIONER|N/A|
-|61|2026-07-00||||N/A|
-|62|2026-07-00||||N/A|
-|63|2026-07-00||||N/A|
-|64|2026-07-00||||N/A|
+|61|2026-07-25|Cross-site scripting|DOM XSS in jQuery selector sink using a hashchange event|Apprentice|N/A|
+|62|2026-07-25|Cross-site scripting|Reflected XSS into attribute with angle brackets HTML-encoded|Apprentice|N/A|
+|63|2026-07-25|Cross-site scripting|Stored XSS into anchor href attribute with double quotes HTML-encoded|Apprentice|N/A|
+|64|2026-07-25|Cross-site scripting|Reflected XSS into a JavaScript string with angle brackets HTML encoded|Apprentice|N/A|
 |65|2026-07-00||||N/A|
 |66|2026-07-00||||N/A|
 |67|2026-07-00||||N/A|
 |68|2026-07-00||||N/A|
-|69|2026-07-00||||N/A|
-|70|2026-07-00||||N/A|
-|71|2026-07-00||||N/A|
-|72|2026-07-00||||N/A|
+|69|2026-08-00||||N/A|
+|70|2026-08-00||||N/A|
+|71|2026-08-00||||N/A|
+|72|2026-08-00||||N/A|
