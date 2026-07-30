@@ -1,16 +1,16 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-64-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--19-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-70-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--31-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
-![Completed](https://img.shields.io/badge/Completed-15%25-magenta)
+![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 
-* **Apprentice:** 28 of 61
-* **Practitioner:** 34 of 174
+* **Apprentice:** 30 of 61
+* **Practitioner:** 38 of 174
 * **Expert:** 2 of 39
 
 ## Categories Covered
@@ -23,6 +23,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **File upload vulnerabilities:** 6/7 lab
 * **Cross-site scripting:** 9/30 lab
 * **Race conditions:** 2/6 lab
+* **Server-side request forgery (SSRF):** 2/6 lab
 
 ## Notes
 
@@ -110,11 +111,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |62|2026-07-25|Cross-site scripting|Reflected XSS into attribute with angle brackets HTML-encoded|Apprentice|N/A|
 |63|2026-07-25|Cross-site scripting|Stored XSS into anchor href attribute with double quotes HTML-encoded|Apprentice|N/A|
 |64|2026-07-25|Cross-site scripting|Reflected XSS into a JavaScript string with angle brackets HTML encoded|Apprentice|N/A|
-|65|2026-07-00||||N/A|
-|66|2026-07-00||||N/A|
-|67|2026-07-00||||N/A|
-|68|2026-07-00||||N/A|
-|69|2026-08-00||||N/A|
-|70|2026-08-00||||N/A|
+|65|2026-07-31|Server-side request forgery (SSRF)|Basic SSRF against the local server|Apprentice|N/A|
+|66|2026-07-31|Server-side request forgery (SSRF)|Basic SSRF against another back-end system|Apprentice|N/A|
+|67|2026-07-31|Cross-site scripting|DOM XSS in document.write sink using source location.search inside a select element|PRACTITIONER|N/A|
+|68|2026-07-31|Cross-site scripting|DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded|PRACTITIONER|N/A|
+|69|2026-08-31|Cross-site scripting|Reflected DOM XSS|PRACTITIONER|N/A|
+|70|2026-08-31|Cross-site scripting|Stored DOM XSS|PRACTITIONER|N/A|
 |71|2026-08-00||||N/A|
 |72|2026-08-00||||N/A|
