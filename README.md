@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-70-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--31-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-75-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--7-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -9,8 +9,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 30 of 61
-* **Practitioner:** 38 of 174
+* **Apprentice:** 34 of 61
+* **Practitioner:** 39 of 174
 * **Expert:** 2 of 39
 
 ## Categories Covered
@@ -24,6 +24,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Cross-site scripting:** 9/30 lab
 * **Race conditions:** 2/6 lab
 * **Server-side request forgery (SSRF):** 2/6 lab
+* **API testing:** 2/5 lab
+* **Information disclosure:** 3/5 lab
 
 ## Notes
 
@@ -117,5 +119,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |68|2026-07-31|Cross-site scripting|DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded|PRACTITIONER|N/A|
 |69|2026-08-31|Cross-site scripting|Reflected DOM XSS|PRACTITIONER|N/A|
 |70|2026-08-31|Cross-site scripting|Stored DOM XSS|PRACTITIONER|N/A|
-|71|2026-08-00||||N/A|
-|72|2026-08-00||||N/A|
+|71|2026-08-07|Information disclosure|Information disclosure in error messages|Apprentice|N/A|
+|72|2026-08-07|Information disclosure|Information disclosure on debug page|Apprentice|N/A|
+|73|2026-08-07|Information disclosure|Source code disclosure via backup files|Apprentice|N/A|
+|74|2026-08-07|API testing|Exploiting an API endpoint using documentation|Apprentice|N/A|
+|75|2026-08-07|API testing|Finding and exploiting an unused API endpoint|PRACTITIONER|N/A|
+|76|2026-08-00||||N/A|
+|77|2026-08-00||||N/A|
+|78|2026-08-00||||N/A|
