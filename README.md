@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-75-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--7-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-78-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--13-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -10,7 +10,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 34 of 61
-* **Practitioner:** 39 of 174
+* **Practitioner:** 42 of 174
 * **Expert:** 2 of 39
 
 ## Categories Covered
@@ -21,7 +21,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 * **File upload vulnerabilities:** 6/7 lab
-* **Cross-site scripting:** 9/30 lab
+* **Cross-site scripting:** 12/30 lab
 * **Race conditions:** 2/6 lab
 * **Server-side request forgery (SSRF):** 2/6 lab
 * **API testing:** 2/5 lab
@@ -124,6 +124,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |73|2026-08-07|Information disclosure|Source code disclosure via backup files|Apprentice|N/A|
 |74|2026-08-07|API testing|Exploiting an API endpoint using documentation|Apprentice|N/A|
 |75|2026-08-07|API testing|Finding and exploiting an unused API endpoint|PRACTITIONER|N/A|
-|76|2026-08-00||||N/A|
-|77|2026-08-00||||N/A|
-|78|2026-08-00||||N/A|
+|76|2026-08-13|Cross-site scripting|Reflected XSS into HTML context with most tags and attributes blocked|PRACTITIONER|N/A|
+|77|2026-08-13|Cross-site scripting|Reflected XSS into HTML context with all tags blocked except custom ones|PRACTITIONER|N/A|
+|78|2026-08-13|Cross-site scripting|Reflected XSS with some SVG markup allowed|PRACTITIONER|N/A|
+|79|2026-08-00||||N/A|
+|80|2026-08-00||||N/A|
+|81|2026-08-00||||N/A|
