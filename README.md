@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-78-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--13-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-80-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--27-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -9,8 +9,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 34 of 61
-* **Practitioner:** 42 of 174
+* **Apprentice:** 35 of 61
+* **Practitioner:** 43 of 174
 * **Expert:** 2 of 39
 
 ## Categories Covered
@@ -26,6 +26,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Server-side request forgery (SSRF):** 2/6 lab
 * **API testing:** 2/5 lab
 * **Information disclosure:** 3/5 lab
+* **Cross-site request forgery :** 2/11 lab
 
 ## Notes
 
@@ -127,6 +128,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |76|2026-08-13|Cross-site scripting|Reflected XSS into HTML context with most tags and attributes blocked|PRACTITIONER|N/A|
 |77|2026-08-13|Cross-site scripting|Reflected XSS into HTML context with all tags blocked except custom ones|PRACTITIONER|N/A|
 |78|2026-08-13|Cross-site scripting|Reflected XSS with some SVG markup allowed|PRACTITIONER|N/A|
-|79|2026-08-00||||N/A|
-|80|2026-08-00||||N/A|
-|81|2026-08-00||||N/A|
+|79|2026-08-27|Cross-site request forgery |CSRF vulnerability with no defenses|Apprentice|N/A|
+|80|2026-08-27|Cross-site request forgery |CSRF where token validation depends on request method|PRACTITIONER|N/A|
+|81|2026-08-00|Cross-site request forgery |||N/A|
+|82|2026-08-00|Cross-site request forgery |||N/A|
+|83|2026-08-00||||N/A|
