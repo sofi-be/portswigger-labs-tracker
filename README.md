@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-80-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--27-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-89-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--30-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -10,8 +10,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 35 of 61
-* **Practitioner:** 43 of 174
-* **Expert:** 2 of 39
+* **Practitioner:** 50 of 174
+* **Expert:** 4 of 39
 
 ## Categories Covered
 
@@ -21,12 +21,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Path traversal:** 6/6 lab
 * **OS command injection:** 4/5 lab
 * **File upload vulnerabilities:** 6/7 lab
-* **Cross-site scripting:** 12/30 lab
+* **Cross-site scripting:** 20/30 lab
 * **Race conditions:** 2/6 lab
 * **Server-side request forgery (SSRF):** 2/6 lab
 * **API testing:** 2/5 lab
 * **Information disclosure:** 3/5 lab
-* **Cross-site request forgery :** 2/11 lab
+* **Cross-site request forgery :** 3/11 lab
 
 ## Notes
 
@@ -130,6 +130,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |78|2026-08-13|Cross-site scripting|Reflected XSS with some SVG markup allowed|PRACTITIONER|N/A|
 |79|2026-08-27|Cross-site request forgery |CSRF vulnerability with no defenses|Apprentice|N/A|
 |80|2026-08-27|Cross-site request forgery |CSRF where token validation depends on request method|PRACTITIONER|N/A|
-|81|2026-08-00|Cross-site request forgery |||N/A|
-|82|2026-08-00|Cross-site request forgery |||N/A|
-|83|2026-08-00||||N/A|
+|81|2026-08-00|Cross-site request forgery |CSRF where token validation depends on token being present|PRACTITIONER|N/A|
+|82|2026-08-00|Cross-site scripting |Reflected XSS in canonical link tag|PRACTITIONER|N/A|
+|83|2026-08-00|Cross-site scripting|Reflected XSS into a JavaScript string with single quote and backslash escaped|PRACTITIONER|N/A|
+|84|2026-08-00|Cross-site scripting|Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped|PRACTITIONER|N/A|
+|85|2026-08-00|Cross-site scripting|Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped|PRACTITIONER|N/A|
+|86|2026-08-00|Cross-site scripting|Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped|PRACTITIONER|N/A|
+|87|2026-08-00|Cross-site scripting|Exploiting XSS to bypass CSRF defenses|PRACTITIONER|N/A|
+|88|2026-08-00|Cross-site scripting|Reflected XSS with AngularJS sandbox escape without strings|EXPERT|N/A|
+|89|2026-08-00|Cross-site scripting|Reflected XSS with AngularJS sandbox escape and CSP|EXPERT|N/A|
+|90|2026-08-00||||N/A|
+|91|2026-08-00||||N/A|
+|92|2026-08-00||||N/A|
+|93|2026-08-00||||N/A|
+|94|2026-08-00||||N/A|
