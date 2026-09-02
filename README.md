@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-89-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--08--30-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-95-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--3-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -10,8 +10,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 35 of 61
-* **Practitioner:** 50 of 174
-* **Expert:** 4 of 39
+* **Practitioner:** 55 of 174
+* **Expert:** 5 of 39
 
 ## Categories Covered
 
@@ -27,6 +27,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **API testing:** 2/5 lab
 * **Information disclosure:** 3/5 lab
 * **Cross-site request forgery :** 3/11 lab
+*  **Server-side template injection:** 6/7 lab
 
 ## Notes
 
@@ -139,8 +140,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |87|2026-08-00|Cross-site scripting|Exploiting XSS to bypass CSRF defenses|PRACTITIONER|N/A|
 |88|2026-08-00|Cross-site scripting|Reflected XSS with AngularJS sandbox escape without strings|EXPERT|N/A|
 |89|2026-08-00|Cross-site scripting|Reflected XSS with AngularJS sandbox escape and CSP|EXPERT|N/A|
-|90|2026-08-00||||N/A|
-|91|2026-08-00||||N/A|
-|92|2026-08-00||||N/A|
-|93|2026-08-00||||N/A|
-|94|2026-08-00||||N/A|
+|90|2026-09-00|Server-side template injection|Basic server-side template injection|PRACTITIONER|N/A|
+|91|2026-09-00|Server-side template injection|Basic server-side template injection (code context)|PRACTITIONER|N/A|
+|92|2026-09-00|Server-side template injection|Server-side template injection using documentation|PRACTITIONER|N/A|
+|93|2026-09-00|Server-side template injection|Server-side template injection in an unknown language with a documented exploit|PRACTITIONER|N/A|
+|94|2026-09-00|Server-side template injection|Server-side template injection with information disclosure via user-supplied objects|PRACTITIONER|N/A|
+|95|2026-09-00|Server-side template injection|Server-side template injection in a sandboxed environment|EXPERT|N/A|
+|96|2026-09-00||||N/A|
+|97|2026-09-00||||N/A|
+|98|2026-09-00||||N/A|
