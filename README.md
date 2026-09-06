@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-95-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--3-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-97-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--6-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -9,7 +9,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 
-* **Apprentice:** 35 of 61
+* **Apprentice:** 37 of 61
 * **Practitioner:** 55 of 174
 * **Expert:** 5 of 39
 
@@ -28,6 +28,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Information disclosure:** 3/5 lab
 * **Cross-site request forgery :** 3/11 lab
 *  **Server-side template injection:** 6/7 lab
+*  **JWT:** 2/8 lab
+
+
+ 
+
 
 ## Notes
 
@@ -106,11 +111,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |54|2026-07-19|Cross-site scripting|Stored XSS into HTML context with nothing encoded|Apprentice|N/A|
 |55|2026-07-19|Cross-site scripting|DOM XSS in document.write sink using source location.search|Apprentice|N/A|
 |56|2026-07-19|Authentication vulnerabilities|Broken brute-force protection, multiple credentials per request|Expert|N/A|
-|57|2026-07-00|Cross-site scripting|DOM XSS in innerHTML sink using source location.search
+|57|2026-07-21|Cross-site scripting|DOM XSS in innerHTML sink using source location.search
 |Apprentice|N/A|
-|58|2026-07-00|Cross-site scripting|DOM XSS in jQuery anchor href attribute sink using location.search source|Apprentice|N/A|
-|59|2026-07-00|Race conditions|Limit overrun race conditions|Apprentice|N/A|
-|60|2026-07-00|Race conditions|Multi-endpoint race conditions|PRACTITIONER|N/A|
+|58|2026-07-20|Cross-site scripting|DOM XSS in jQuery anchor href attribute sink using location.search source|Apprentice|N/A|
+|59|2026-07-21|Race conditions|Limit overrun race conditions|Apprentice|N/A|
+|60|2026-07-21|Race conditions|Multi-endpoint race conditions|PRACTITIONER|N/A|
 |61|2026-07-25|Cross-site scripting|DOM XSS in jQuery selector sink using a hashchange event|Apprentice|N/A|
 |62|2026-07-25|Cross-site scripting|Reflected XSS into attribute with angle brackets HTML-encoded|Apprentice|N/A|
 |63|2026-07-25|Cross-site scripting|Stored XSS into anchor href attribute with double quotes HTML-encoded|Apprentice|N/A|
@@ -131,21 +136,21 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |78|2026-08-13|Cross-site scripting|Reflected XSS with some SVG markup allowed|PRACTITIONER|N/A|
 |79|2026-08-27|Cross-site request forgery |CSRF vulnerability with no defenses|Apprentice|N/A|
 |80|2026-08-27|Cross-site request forgery |CSRF where token validation depends on request method|PRACTITIONER|N/A|
-|81|2026-08-00|Cross-site request forgery |CSRF where token validation depends on token being present|PRACTITIONER|N/A|
-|82|2026-08-00|Cross-site scripting |Reflected XSS in canonical link tag|PRACTITIONER|N/A|
-|83|2026-08-00|Cross-site scripting|Reflected XSS into a JavaScript string with single quote and backslash escaped|PRACTITIONER|N/A|
-|84|2026-08-00|Cross-site scripting|Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped|PRACTITIONER|N/A|
-|85|2026-08-00|Cross-site scripting|Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped|PRACTITIONER|N/A|
-|86|2026-08-00|Cross-site scripting|Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped|PRACTITIONER|N/A|
-|87|2026-08-00|Cross-site scripting|Exploiting XSS to bypass CSRF defenses|PRACTITIONER|N/A|
-|88|2026-08-00|Cross-site scripting|Reflected XSS with AngularJS sandbox escape without strings|EXPERT|N/A|
-|89|2026-08-00|Cross-site scripting|Reflected XSS with AngularJS sandbox escape and CSP|EXPERT|N/A|
-|90|2026-09-00|Server-side template injection|Basic server-side template injection|PRACTITIONER|N/A|
-|91|2026-09-00|Server-side template injection|Basic server-side template injection (code context)|PRACTITIONER|N/A|
-|92|2026-09-00|Server-side template injection|Server-side template injection using documentation|PRACTITIONER|N/A|
-|93|2026-09-00|Server-side template injection|Server-side template injection in an unknown language with a documented exploit|PRACTITIONER|N/A|
-|94|2026-09-00|Server-side template injection|Server-side template injection with information disclosure via user-supplied objects|PRACTITIONER|N/A|
-|95|2026-09-00|Server-side template injection|Server-side template injection in a sandboxed environment|EXPERT|N/A|
-|96|2026-09-00||||N/A|
-|97|2026-09-00||||N/A|
+|81|2026-08-28|Cross-site request forgery |CSRF where token validation depends on token being present|PRACTITIONER|N/A|
+|82|2026-08-28|Cross-site scripting |Reflected XSS in canonical link tag|PRACTITIONER|N/A|
+|83|2026-08-28|Cross-site scripting|Reflected XSS into a JavaScript string with single quote and backslash escaped|PRACTITIONER|N/A|
+|84|2026-08-29|Cross-site scripting|Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped|PRACTITIONER|N/A|
+|85|2026-08-29|Cross-site scripting|Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped|PRACTITIONER|N/A|
+|86|2026-08-30|Cross-site scripting|Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped|PRACTITIONER|N/A|
+|87|2026-08-30|Cross-site scripting|Exploiting XSS to bypass CSRF defenses|PRACTITIONER|N/A|
+|88|2026-08-30|Cross-site scripting|Reflected XSS with AngularJS sandbox escape without strings|EXPERT|N/A|
+|89|2026-08-30|Cross-site scripting|Reflected XSS with AngularJS sandbox escape and CSP|EXPERT|N/A|
+|90|2026-09-02|Server-side template injection|Basic server-side template injection|PRACTITIONER|N/A|
+|91|2026-09-02|Server-side template injection|Basic server-side template injection (code context)|PRACTITIONER|N/A|
+|92|2026-09-02|Server-side template injection|Server-side template injection using documentation|PRACTITIONER|N/A|
+|93|2026-09-03|Server-side template injection|Server-side template injection in an unknown language with a documented exploit|PRACTITIONER|N/A|
+|94|2026-09-03|Server-side template injection|Server-side template injection with information disclosure via user-supplied objects|PRACTITIONER|N/A|
+|95|2026-09-03|Server-side template injection|Server-side template injection in a sandboxed environment|EXPERT|N/A|
+|96|2026-09-05|JWT|JWT authentication bypass via unverified signature|APPRENTICE|N/A|
+|97|2026-09-05|JWT|JWT authentication bypass via flawed signature verification|APPRENTICE|N/A|
 |98|2026-09-00||||N/A|
