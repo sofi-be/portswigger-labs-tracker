@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-97-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--6-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-100-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--8-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -10,7 +10,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 37 of 61
-* **Practitioner:** 55 of 174
+* **Practitioner:** 58 of 174
 * **Expert:** 5 of 39
 
 ## Categories Covered
@@ -29,7 +29,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Cross-site request forgery :** 3/11 lab
 *  **Server-side template injection:** 6/7 lab
 *  **JWT:** 2/8 lab
-
+*  **HTTP request smuggling:** 3/22lab
 
  
 
@@ -153,4 +153,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |95|2026-09-03|Server-side template injection|Server-side template injection in a sandboxed environment|EXPERT|N/A|
 |96|2026-09-05|JWT|JWT authentication bypass via unverified signature|APPRENTICE|N/A|
 |97|2026-09-05|JWT|JWT authentication bypass via flawed signature verification|APPRENTICE|N/A|
-|98|2026-09-00||||N/A|
+|98|2026-09-08|HTTP request smuggling|HTTP request smuggling, confirming a CL.TE vulnerability via differential responses|PRACTITIONER|N/A|
+|99|2026-09-08|HTTP request smuggling|HTTP request smuggling, confirming a TE.CL vulnerability via differential responses|PRACTITIONER|N/A|
+|100|2026-09-08|HTTP request smuggling|Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability|PRACTITIONER|N/A|
+|101|2026-09-00||||N/A|
+|102|2026-09-00||||N/A|
+|103|2026-09-00||||N/A|
