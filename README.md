@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-101-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--8-yellow)
+![Total Labs Solved](https://img.shields.io/badge/Total_Labs_Solved-103-blue)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--09--9-yellow)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-green)
 ![Completed](https://img.shields.io/badge/Completed-19%25-magenta)
 
@@ -10,7 +10,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 
 * **Apprentice:** 37 of 61
-* **Practitioner:** 59 of 174
+* **Practitioner:** 61 of 174
 * **Expert:** 5 of 39
 
 ## Categories Covered
@@ -29,7 +29,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 * **Cross-site request forgery :** 3/11 lab
 *  **Server-side template injection:** 6/7 lab
 *  **JWT:** 3/8 lab
-*  **HTTP request smuggling:** 3/22lab
+*  **HTTP request smuggling:** 5/22lab
 
  
 
@@ -157,6 +157,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |99|2026-09-08|HTTP request smuggling|HTTP request smuggling, confirming a CL.TE vulnerability via differential responses|PRACTITIONER|N/A|
 |100|2026-09-08|HTTP request smuggling|HTTP request smuggling, confirming a TE.CL vulnerability via differential responses|PRACTITIONER|N/A|
 |101|2026-09-08|HTTP request smuggling|Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability|PRACTITIONER|N/A|
-|102|2026-09-00||||N/A|
-|103|2026-09-00||||N/A|
+|102|2026-09-09|HTTP request smuggling|Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability|PRACTITIONER|N/A|
+|103|2026-09-09|HTTP request smuggling|Exploiting HTTP request smuggling to reveal front-end request rewriting|PRACTITIONER|N/A|
 |104|2026-09-00||||N/A|
+|105|2026-09-00||||N/A|
+|106|2026-09-00||||N/A|
+|107|2026-09-00||||N/A|
+|108|2026-09-00||||N/A|
